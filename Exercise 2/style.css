@@ -53,8 +53,10 @@ body {
       color: FFFFFF 
       text-align:center;
       
-       
+      
     }
-
+     strong{color: FFFFFF
+            font-size:25px
+        }
 
 
