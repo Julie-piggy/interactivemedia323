@@ -1,16 +1,31 @@
 body {
-	 background: #CCBBFF;
-	 
-
-
-
+	 background: #E8CCFF;
+     font-style:;
+     font-family
+     font-weight
+     font-size
+     text-align
+     line-height
+     letter-spacing
+     text-transform
 
 }
-<head>
-  <style>
-    p {
-      color: red;
-      font-size: 20px;
-    }
-  </style>
-</head>
+     h1 {font-size:70px;
+     	text-transform:20px;
+     	font-family:" KaiTi";
+     	background: #7700BB;
+     	letter-spacing:10px;
+     	color:  #FFFFFF;
+     	text-align:center;
+
+     
+          
+         outline-style:outset;
+         outline-color:#000088;
+       
+    }    
+    
+    
+
+
+
