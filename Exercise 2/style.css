@@ -18,11 +18,18 @@ body {
         outline-color:#000088;
        
     } 
+        a .main-list {
+    	text-decoration:line-through;
+        color: #C63300     
+        }  
+        a:hover{
+        	color: 	#3A0088
+        }
 
-         nav{marker-mid: 140px;
+        nav{marker-mid: 140px;
 	        font-size:40px
 
-         }
+        }
 
    
     h2 {font-size:40px;
