@@ -1,19 +1,15 @@
 body {
 	 background: #E8CCFF;
-     font-style:;
-     font-family
-     font-weight
-     font-size
-     text-align
-     line-height
-     letter-spacing
-     text-transform
-
+	 outline-style:outset;
+     outline-color:#000088;
 }
+
+
+
      <!How to Get Rid of Mice>
     h1 {font-size:70px;
      	text-transform:20px;
-     	font-family:" KaiTi";
+     	font-family:Arial, “Microsoft YaHei”;
      	background: #7700BB;
      	letter-spacing:10px;
      	color: #FFFFFF;
@@ -25,9 +21,10 @@ body {
 
          nav{marker-mid: 140px;
 	        font-size:40px
+
          }
 
-
+    <!Looking for Signs of Mice>
     h2 {font-size:50px;
      	text-transform:10px;
      	font-family:" KaiTi";
