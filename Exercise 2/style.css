@@ -1,5 +1,5 @@
 body {
-	 background: #E8CCFF;
+	 background: #CCDDFF;
 	 outline-style:outset;
      outline-color:#000088;
 }
@@ -50,10 +50,9 @@ body {
      
     p{font-size:20px;
       font-family:" KaiTi"
-      color: 	#9955FF 
+      color: FFFFFF 
       text-align:center;
-      outline-style:solid;
-      outline-color:#FFFF77;
+      
        
     }
 
