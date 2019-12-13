@@ -20,7 +20,7 @@ body {
     } 
         a .main-list {
     	text-decoration:line-through;
-        color: #C63300     
+        color: 	#227700     
         }  
         a:hover{
         	color: 	#3A0088
@@ -40,8 +40,16 @@ body {
      	text-align:center;
         text-transform:capitalize                 
     }    
-    
-    
+    <div style="text-align">
+    img {width: 100%; height:auto ;
+    	text-align:center}
+
+    </div>
+    p{font-size:20px;
+      font-family:" KaiTi"
+      color: #7A0099 
+
+    }
 
 
 
