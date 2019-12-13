@@ -10,19 +10,32 @@ body {
      text-transform
 
 }
-     h1 {font-size:70px;
+     <!How to Get Rid of Mice>
+    h1 {font-size:70px;
      	text-transform:20px;
      	font-family:" KaiTi";
      	background: #7700BB;
      	letter-spacing:10px;
-     	color:  #FFFFFF;
+     	color: #FFFFFF;
      	text-align:center;
-
-     
-          
-         outline-style:outset;
-         outline-color:#000088;
+        outline-style:outset;
+        outline-color:#000088;
        
+    } 
+
+         nav{marker-mid: 140px;
+	        font-size:40px
+         }
+
+
+    h2 {font-size:50px;
+     	text-transform:10px;
+     	font-family:" KaiTi";
+     	
+     	letter-spacing:10px;
+     	color:  #800000;
+     	text-align:center;
+        text-transform:capitalize                 
     }    
     
     
